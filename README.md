@@ -27,3 +27,6 @@ This broadcast the live stream of the connected usb camera of the system, to the
 		./server
 		(This will start sending the stream to the all client which are running successfully).
 
+#Useful link
+http://jwhsmith.net/2014/12/capturing-a-webcam-stream-using-v4l2/
+
